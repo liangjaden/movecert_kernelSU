@@ -1,6 +1,6 @@
-id=charles_ca
-name=charles_ca
+id=httpcanary_ca
+name=httpcanary_ca
 version=v1.0
 versionCode=10
-author=ducw
-description=charles_ca
+author=lhs
+description=httpcanary_ca
